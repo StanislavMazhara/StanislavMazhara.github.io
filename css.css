@@ -5,9 +5,15 @@ h1 {
 }
 
 html {
-   background-color: pink;
+   background-color: rgb(151, 151, 151);
 }
 
 .dev {
     font-size: 5mm;
+}
+
+.line {
+    width: 100%;
+
+
 }
