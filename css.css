@@ -14,7 +14,7 @@
     width: 100%;
     border: black solid 35px;
     margin-left: -2%;
-    margin-top: -2%;
+    margin-top: -21.5%;
     position: fixed;
     z-index: 10;
     height: 5vw;
@@ -34,7 +34,7 @@ html {
     border-radius:  50%;
     vertical-align: middle;
     margin-left: 2%;
-    margin-top: 0.5%;
+    margin-top: 0.6%;
 
 }
 
@@ -43,11 +43,7 @@ html {
     margin-top: 100%;
 }
 
-.line {
-    border-left: rgb(190, 190, 190) solid 10px;
-    height: 600px;
-    transform: translateY(130px);
-}
+
 
 .intro_page {
     position: absolute;
@@ -105,7 +101,7 @@ html {
 
 #intro {
     text-align: center;
-    margin-top: -18%;
+    
     font-size: 2vw;
     color: black;
     font-weight: 900;
